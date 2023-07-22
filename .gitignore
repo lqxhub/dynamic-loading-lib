@@ -6,4 +6,7 @@ module
 *.so
 
 *.lib
+
 *.dll*
+
+dload*
