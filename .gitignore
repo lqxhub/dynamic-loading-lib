@@ -1,0 +1,9 @@
+
+cmake-build*
+
+module
+
+*.so
+
+*.lib
+*.dll*
